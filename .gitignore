@@ -1,0 +1,5 @@
+# Gitignore
+/workspace.xml
+.idea/
+/.idea/
+.DS_Storee
