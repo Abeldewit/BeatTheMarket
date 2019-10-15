@@ -1,0 +1,4 @@
+company segment
+0 IT
+1 BIO
+2 IT
