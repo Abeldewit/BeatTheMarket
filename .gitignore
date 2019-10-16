@@ -5,3 +5,7 @@
 .DS_Storee
 
 .ipynb_checkpoints/
+
+*.local
+
+.DS_Store
